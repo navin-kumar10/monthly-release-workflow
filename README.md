@@ -21,5 +21,5 @@ This repository simulates a Git Workflow Architecture for managing monthly relea
 
 ## Repository Link
 
-[GitHub Repository](https://github.com/your-username/monthly-release-workflow)
+[GitHub Repository](https://github.com/navin-kumar10/monthly-release-workflow)
 
